@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+	<product productId="1">
+		<model>LG - Watch Style Smartwatch 42.3mm Stainless Steel - Rose Gold
+		</model>
+		<price>179.99</price>
+		<image>images/1.jpg</image>
+		<manufacturer>LG</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="2">
+		<model>Samsung - Gear S3 Classic Smartwatch 46mm</model>
+		<price>349.99</price>
+		<image>images/2.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>0</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>109</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="3">
+		<model>Samsung - Geek Squad Certified Refurbished Gear S2 Smartwatch 42mm Stainless Steel - Black Elastomer	</model>
+		<price>144.99</price>
+		<image>images/3.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>104</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>104</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="4">
+		<model>Samsung - Tumi Special Edition Gear S3 Smartwatch 46mm - Stainless Steel	</model>
+		<price>449.99</price>
+		<image>images/4.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="5">
+		<model>Apple - Apple Watch Series 2 38mm Space Gray Aluminum Case Black Sport Band - Space Gray Aluminum</model>
+		<price>299.99</price>
+		<image>images/5.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>109</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>109</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>111</accessoryid>
+		</accessories>
+	</product>
+	<product productId="6">
+		<model>Apple - Apple Watch Series 1 38mm Rose Gold Aluminum Case Pink Sand Sport Band - Rose Gold Aluminum </model>
+		<price>249.99</price>
+		<image>images/6.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>102</accessoryid>
+		</accessories>
+	</product>
+	<product productId="34">
+		<model>Samsung - Gear S3 Frontier Smartwatch 46mm - Dark Grey </model>
+		<price>249.99</price>
+		<image>images/34.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="35">
+		<model>LG - Watch Style Smartwatch 42.3mm Stainless Steel - Titanium</model>
+		<price>179.99</price>
+		<image>images/35.jpg</image>
+		<manufacturer>LG</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="36">
+		<model>Samsung - Gear Fit2 Fitness Watch + Heart Rate (Large) - Black</model>
+		<price>179.99</price>
+		<image>images/36.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>101</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>105</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+	<product productId="37">
+		<model>Samsung - Gear S3 Frontier Smartwatch 46mm - Dark Blue</model>
+		<price>299.99</price>
+		<image>images/34.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>watch</type>
+		<accessories>
+			<accessoryid>104</accessoryid>
+			<accessoryid>102</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>106</accessoryid>
+			<accessoryid>103</accessoryid>
+			<accessoryid>108</accessoryid>
+			<accessoryid>103</accessoryid>
+		</accessories>
+	</product>
+
+
+	<product productId="7">
+		<model>Sony - XB10 Portable Bluetooth Speaker - Gray</model>
+		<price>59.99</price>
+		<image>images/7.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="39">
+		<model>JBL by Dr. Dre -  Pill+ Speaker - White</model>
+		<price>179.99</price>
+		<image>images/9.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>118</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>112</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>118</accessoryid>
+			<accessoryid>120</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="40">
+		<model>Sony - XB7 Extra Bass Audio System with Bluetooth - Black</model>
+		<price>99.99</price>
+		<image>images/37.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>115</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>112</accessoryid>
+			<accessoryid>120</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="41">
+		<model>JBL - Flip 4 Portable Bluetooth Speaker - Black</model>
+		<price>99.99</price>
+		<image>images/37.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>114</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>112</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="42">
+		<model>JBL - Flip 4 Portable Bluetooth Speaker - Classic</model>
+		<price>99.99</price>
+		<image>images/37.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="43">
+		<model>Beats - Flip 4 Portable Bluetooth Speaker - Platinium</model>
+		<price>99.99</price>
+		<image>images/37.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="8">
+		<model>JBL - Flip 4 Portable Bluetooth Speaker - Squad</model>
+		<price>99.99</price>
+		<image>images/8.jpg</image>
+		<manufacturer>JBL</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="38">
+		<model>Beats - XB10 Portable Bluetooth Speaker - Blue</model>
+		<price>59.99</price>
+		<image>images/10.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="9">
+		<model>Beats by Dr. Dre - Beats Pill+ Speaker - White</model>
+		<price>179.99</price>
+		<image>images/9.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="10">
+		<model>Sony - XB10 Portable Bluetooth Speaker - Blue</model>
+		<price>59.99</price>
+		<image>images/10.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Speakers</type>
+		<accessories>
+			<accessoryid>112</accessoryid>
+			<accessoryid>113</accessoryid>
+			<accessoryid>114</accessoryid>
+			<accessoryid>115</accessoryid>
+			<accessoryid>116</accessoryid>
+			<accessoryid>117</accessoryid>
+			<accessoryid>118</accessoryid>
+		</accessories>
+	</product>
+
+
+
+	<product productId="11">
+		<model>Sony - ZX Series On-Ear Headphones - Black</model>
+		<price>10.99</price>
+		<image>images/11.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>128</accessoryid>
+		</accessories>
+	</product>
+	<product productId="12">
+		<model>Beats by Dr. Dre - Beats Studio Wireless Over-the-Ear Headphones - Black	</model>
+		<price>270.99</price>
+		<image>images/12.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>130</accessoryid>
+			<accessoryid>129</accessoryid>
+			<accessoryid>128</accessoryid>
+			<accessoryid>127</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>124</accessoryid>
+		</accessories>
+	</product>
+	<product productId="48">
+		<model>Beats - Earbud Headphones - Gray/Black</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>130</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>130</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+		</accessories>
+	</product>
+	<product productId="46">
+		<model>Beats - Earbud Headphones - Black</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>126</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>121</accessoryid>
+		</accessories>
+	</product>
+	<product productId="13">
+		<model>Skullcandy - Hesh 2.0 Over-the-Ear Headphones - Black/Gunmetal</model>
+		<price>34.99</price>
+		<image>images/13.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>123</accessoryid>
+		</accessories>
+	</product>
+	<product productId="14">
+		<model>Sony - Earbud Headphones - Black</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>125</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>127</accessoryid>
+			<accessoryid>123</accessoryid>
+		</accessories>
+	</product>
+	<product productId="15">
+		<model>Sony - AS210 Sport Earbud Headphones - Black</model>
+		<price>19.99</price>
+		<image>images/15.jpg</image>
+		<manufacturer>Sony</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>122</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="44">
+		<model>Skullcandy - Earbud Headphones - Black</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>126</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>121</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="45">
+		<model>Skullcandy - Earbud Headphones - Gray</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Skullcandy</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>128</accessoryid>
+		</accessories>
+	</product>
+
+
+
+	<product productId="47">
+		<model>Beats - Earbud Headphones - Gray</model>
+		<price>34.99</price>
+		<image>images/14.jpg</image>
+		<manufacturer>Beats</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Headphones</type>
+		<accessories>
+			<accessoryid>121</accessoryid>
+			<accessoryid>122</accessoryid>
+			<accessoryid>124</accessoryid>
+			<accessoryid>123</accessoryid>
+			<accessoryid>125</accessoryid>
+			<accessoryid>126</accessoryid>
+			<accessoryid>128</accessoryid>
+		</accessories>
+	</product>
+
+
+
+
+
+
+	<product productId="16">
+		<model>Samsung - Galaxy S7 edge 32GB - Black Onyx</model>
+		<price>359.99</price>
+		<image>images/16.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+			<accessoryid>133</accessoryid>
+			<accessoryid>134</accessoryid>
+			<accessoryid>135</accessoryid>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+	<product productId="17">
+		<model>Samsung - Galaxy Note8 64GB - Orchid Gray</model>
+		<price>799.99</price>
+		<image>images/17.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+			<accessoryid>133</accessoryid>
+			<accessoryid>134</accessoryid>
+			<accessoryid>135</accessoryid>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+	<product productId="18">
+		<model>Samsung - Galaxy S8 64GB - Arctic Silver</model>
+		<price>549.99</price>
+		<image>images/18.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+			<accessoryid>133</accessoryid>
+			<accessoryid>134</accessoryid>
+			<accessoryid>135</accessoryid>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+	<product productId="19">
+		<model>Apple - iPhone 7 32GB - Black</model>
+		<price>549.99</price>
+		<image>images/19.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+			<accessoryid>138</accessoryid>
+			<accessoryid>139</accessoryid>
+			<accessoryid>140</accessoryid>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+		</accessories>
+	</product>
+	<product productId="20">
+		<model>Apple - iPhone SE 32GB - Space Gray</model>
+		<price>399.99</price>
+		<image>images/20.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+			<accessoryid>138</accessoryid>
+			<accessoryid>139</accessoryid>
+			<accessoryid>140</accessoryid>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+		</accessories>
+	</product>
+	<product productId="21">
+		<model>Apple - iPhone 7 Plus 128GB - Black</model>
+		<price>649.99</price>
+		<image>images/21.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+			<accessoryid>138</accessoryid>
+			<accessoryid>139</accessoryid>
+			<accessoryid>140</accessoryid>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="48">
+		<model>Apple - iPhone 7 Plus 128GB - Silver</model>
+		<price>649.99</price>
+		<image>images/21.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+			<accessoryid>138</accessoryid>
+			<accessoryid>139</accessoryid>
+			<accessoryid>140</accessoryid>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="49">
+		<model>Apple - iPhone 7 Plus 128GB - Gold</model>
+		<price>649.99</price>
+		<image>images/21.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+			<accessoryid>138</accessoryid>
+			<accessoryid>139</accessoryid>
+			<accessoryid>140</accessoryid>
+			<accessoryid>136</accessoryid>
+			<accessoryid>137</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="50">
+		<model>Samsung - Galaxy Note8 64GB - Arctic Silver</model>
+		<price>799.99</price>
+		<image>images/17.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+			<accessoryid>133</accessoryid>
+			<accessoryid>134</accessoryid>
+			<accessoryid>135</accessoryid>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="51">
+		<model>Samsung - Galaxy Note8 64GB - Blue</model>
+		<price>799.99</price>
+		<image>images/17.jpg</image>
+		<manufacturer>Samsung</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Phones</type>
+		<accessories>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+			<accessoryid>133</accessoryid>
+			<accessoryid>134</accessoryid>
+			<accessoryid>135</accessoryid>
+			<accessoryid>131</accessoryid>
+			<accessoryid>132</accessoryid>
+		</accessories>
+	</product>
+
+
+
+	<product productId="22">
+		<model>Lenovo - 15.6" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 500GB Hard Drive - Black </model>
+		<price>199.99</price>
+		<image>images/22.jpg</image>
+		<manufacturer>Lenovo</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="52">
+		<model>Lenovo - 13.3" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 500GB Hard Drive - Black </model>
+		<price>299.99</price>
+		<image>images/22.jpg</image>
+		<manufacturer>Lenovo</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>147</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>149</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>141</accessoryid>
+			<accessoryid>143</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="23">
+		<model>Lenovo - Ideapad 110s 11.6" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - White	</model>
+		<price>149.99</price>
+		<image>images/23.jpg</image>
+		<manufacturer>Lenovo</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="24">
+		<model>Dell - Inspiron 15.6" Laptop - Intel Core i3 - 6GB Memory - 1TB 	Hard Drive - Black </model>
+		<price>349.99</price>
+		<image>images/24.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="53">
+		<model>Dell - Inspiron 13.3" Laptop - Intel Core i3 - 6GB Memory - 1TB 	Hard Drive - Black </model>
+		<price>449.99</price>
+		<image>images/24.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="54">
+		<model>Dell - Chromebook - Black </model>
+		<price>349.99</price>
+		<image>images/24.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="25">
+		<model>Dell - Inspiron 2-in-1 15.6" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Silver</model>
+		<price>679.99</price>
+		<image>images/25.jpg</image>
+		<manufacturer>Dell</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="26">
+		<model>Microsoft - Surface Pro 4 with Black Type Cover - 12.3" - 128GB - Intel Core i5 - Silver	</model>
+		<price>749.99</price>
+		<image>images/26.jpg</image>
+		<manufacturer>Microsoft</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="27">
+		<model>Apple - MacBook Air® - 13.3" Display - Intel Core i5 - 8GB 	Memory - 128GB Flash Storage (Latest Model) - Silver</model>
+		<price>999.99</price>
+		<image>images/27.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="28">
+		<model>Apple - MacBook Pro® - 13" Display - Intel Core i5 - 8 GB Memory - 256GB Flash Storage (Latest Model) - Space Gray</model>
+		<price>1699.99</price>
+		<image>images/28.jpg</image>
+		<manufacturer>Apple</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>Laptops</type>
+		<accessories>
+			<accessoryid>141</accessoryid>
+			<accessoryid>142</accessoryid>
+			<accessoryid>143</accessoryid>
+			<accessoryid>144</accessoryid>
+			<accessoryid>145</accessoryid>
+			<accessoryid>146</accessoryid>
+			<accessoryid>147</accessoryid>
+		</accessories>
+	</product>
+	<product productId="29">
+		<model>WD - My Cloud EX2 Ultra 0TB 2-Bay External Network Storage (NAS) - Charcoal</model>
+		<price>159.99</price>
+		<image>images/29.jpg</image>
+		<manufacturer>WD</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>151</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+	<product productId="30">
+		<model>WD - easystore® 1TB External USB 3.0 Portable Hard Drive -Black</model>
+		<price>159.99</price>
+		<image>images/30.jpg</image>
+		<manufacturer>WD</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>154</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+	<product productId="31">
+		<model>SanDisk - 64GB USB Type A Flash Drive - Red</model>
+		<price>22.99</price>
+		<image>images/31.jpg</image>
+		<manufacturer>SandDisk</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>151</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>159</accessoryid>
+		</accessories>
+	</product>
+	<product productId="32">
+		<model>SanDisk - Cruzer 16GB USB 2.0 Flash Drive - Black</model>
+		<price>5.99</price>
+		<image>images/32.jpg</image>
+		<manufacturer>SandDisk</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>151</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+	<product productId="33">
+		<model>Seagate - Backup Plus Slim 4TB External USB 3.0/2.0 Portable Hard Drive - Black</model>
+		<price>101.99</price>
+		<image>images/33.jpg</image>
+		<manufacturer>Seagate</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>151</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="55">
+		<model>Sandisk - Backup Plus Slim 4TB External USB 3.0/2.0 Portable Hard Drive - Black</model>
+		<price>101.99</price>
+		<image>images/33.jpg</image>
+		<manufacturer>SanDisk</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>154</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="56">
+		<model>WD - Backup Plus Slim 4TB External USB 3.0/2.0 Portable Hard Drive - Black</model>
+		<price>101.99</price>
+		<image>images/33.jpg</image>
+		<manufacturer>WD</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>151</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>155</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>157</accessoryid>
+		</accessories>
+	</product>
+	<product productId="57">
+		<model>Seagate - Backup Plus Slim 4TB External USB 3.0/2.0 Portable Hard Drive - Gray</model>
+		<price>101.99</price>
+		<image>images/33.jpg</image>
+		<manufacturer>Seagate</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>153</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>156</accessoryid>
+			<accessoryid>152</accessoryid>
+		</accessories>
+	</product>
+
+	<product productId="58">
+		<model>Sanddisk - Backup Plus Slim 4TB External USB 3.0/2.0 Portable Hard Drive - Black</model>
+		<price>101.99</price>
+		<image>images/33.jpg</image>
+		<manufacturer>SandDisk</manufacturer>
+		<condition>New</condition>
+		<discount>10.0</discount>
+		<quantity>25</quantity>
+		<type>External Storage</type>
+		<accessories>
+			<accessoryid>154</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>153</accessoryid>
+			<accessoryid>154</accessoryid>
+			<accessoryid>152</accessoryid>
+			<accessoryid>151</accessoryid>
+			<accessoryid>156</accessoryid>
+		</accessories>
+	</product>
+
+
+	<AccessoryCatalog>
+		<accessory accessoryId="101">
+			<amodel>Samsung Arm Band</amodel>
+			<aprice>80.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/101.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="102">
+			<amodel>Platinum - Leather Band</amodel>
+			<aprice>50.0</aprice>
+			<amanufacturer>Flitch</amanufacturer>
+			<aimage>images/102.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="103">
+			<amodel>ZAGG - InvisibleShield HD Clear Screen</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>ZAGG</amanufacturer>
+			<aimage>images/103.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="104">
+			<amodel>Pebble - Leather Band</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>LG</amanufacturer>
+			<aimage>images/104.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="105">
+			<amodel>Apple Glass</amodel>
+			<aprice>70.0</aprice>
+			<amanufacturer>Apple</amanufacturer>
+			<aimage>images/105.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="106">
+			<amodel>Wireless Charger</amodel>
+			<aprice>90.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/106.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="107">
+			<amodel>Fitbit - 10.2" Charging Cable - Black</amodel>
+			<aprice>40.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/107.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="108">
+			<amodel>Nomad - Watch Strap </amodel>
+			<aprice>40.0</aprice>
+			<amanufacturer>Nomad</amanufacturer>
+			<aimage>images/108.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="109">
+			<amodel>Charger </amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>LG</amanufacturer>
+			<aimage>images/109.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="110">
+			<amodel>Nomad - Watch Strap </amodel>
+			<aprice>40.0</aprice>
+			<amanufacturer>Nomad</amanufacturer>
+			<aimage>images/108.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="111">
+			<amodel>QI Charger for All device</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>LG</amanufacturer>
+			<aimage>images/109.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="112">
+			<amodel>BRAVEN - Action Mount Accessory</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>BRAVEN</amanufacturer>
+			<aimage>images/112.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="113">
+			<amodel>Bose® - WB-300 Wall Bracket</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>BOSE</amanufacturer>
+			<aimage>images/113.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="114">
+			<amodel>Google - Chromecast Audio - Black</amodel>
+			<aprice>30.0</aprice>
+			<amanufacturer>Google</amanufacturer>
+			<aimage>images/114.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="115">
+			<amodel>Bose® - SoundLink® Mini Soft Cover</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>Bose</amanufacturer>
+			<aimage>images/115.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="116">
+			<amodel>Bose® - SoundLink® Mini Soft Cover - black</amodel>
+			<aprice>10.0</aprice>
+			<amanufacturer>Bose</amanufacturer>
+			<aimage>images/115.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="117">
+			<amodel>Rocketfish™ - Multi-Directional Speaker Wall Mount </amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>images/117.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="118">
+			<amodel>Rocketfish™ - Multi-Directional Speaker Wall Mount-black</amodel>
+			<aprice>19.0</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>images/117.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="119">
+			<amodel>Rocketfish™ - 50' Spool Ultra-Flat Speaker Wire </amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>images/119.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="120">
+			<amodel>Rocketfish™ - 50' Spool Ultra-Flat Speaker Wire-black</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Rocketfish</amanufacturer>
+			<aimage>images/119.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="121">
+			<amodel>Comply - Sport Pro Premium Earphone Tips</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Comply</amanufacturer>
+			<aimage>images/121.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="122">
+			<amodel>Insignia - Accessories for Apple AirPods</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>images/122.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="123">
+			<amodel>Insignia case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>images/123.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="124">
+			<amodel>Insignia case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Insignia</amanufacturer>
+			<aimage>images/124.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="125">
+			<amodel>mophie - Power Capsule</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Mophie</amanufacturer>
+			<aimage>images/125.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="126">
+			<amodel>Jaybird - Comply™ Premium Foam Comfort Ear</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>jaybird</amanufacturer>
+			<aimage>images/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="127">
+			<amodel>Jaybird -  Comfort Ear -black</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>jaybird</amanufacturer>
+			<aimage>images/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="128">
+			<amodel>Jaybird -  Comfort Ear- gray</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>jaybird</amanufacturer>
+			<aimage>images/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="129">
+			<amodel>Jaybird - Comfort Ear - Blue</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>jaybird</amanufacturer>
+			<aimage>images/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="130">
+			<amodel>Jaybird - Comfort Ear - Red</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>jaybird</amanufacturer>
+			<aimage>images/126.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+
+		<accessory accessoryId="131">
+			<amodel>Samsung mobile case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/131.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="132">
+			<amodel>Samsung mobile case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/132.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="133">
+			<amodel>Samsung mobile case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/133.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="134">
+			<amodel>Samsung mobile case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/134.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="135">
+			<amodel>Samsung mobile case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Samsung</amanufacturer>
+			<aimage>images/135.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="136">
+			<amodel>Iphone case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Iphone cases</amanufacturer>
+			<aimage>images/136.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="137">
+			<amodel>Iphone case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Iphone cases</amanufacturer>
+			<aimage>images/137.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="138">
+			<amodel>Iphone case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Iphone cases</amanufacturer>
+			<aimage>images/138.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="139">
+			<amodel>Iphone case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Iphone cases</amanufacturer>
+			<aimage>images/139.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="140">
+			<amodel>Iphone case</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Iphone cases</amanufacturer>
+			<aimage>images/140.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="141">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/141.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="142">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/142.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="143">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/143.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="144">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/144.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="145">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/145.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="146">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Creative</amanufacturer>
+			<aimage>images/145.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="147">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/141.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="148">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/142.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="149">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/143.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="150">
+			<amodel>Laptop Desk</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/144.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="151">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/151.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+		<accessory accessoryId="152">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/155.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="153">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/153.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="154">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/154.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="155">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/152.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="156">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/155.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="157">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/153.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="158">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/153.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="159">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/154.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+		<accessory accessoryId="160">
+			<amodel>Cases</amodel>
+			<aprice>20.0</aprice>
+			<amanufacturer>Atlantic</amanufacturer>
+			<aimage>images/155.jpg</aimage>
+			<atype>Accessory</atype>
+		</accessory>
+
+
+
+	</AccessoryCatalog>
+</ProductCatalog>
